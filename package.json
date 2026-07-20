@@ -1,12 +1,12 @@
 {
-  "name": "NIMA-OFC",
+  "name": "AKASH-MD",
   "version": "1.0.0",
   "description": "A Powerfull Whatsapp Bot",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name NIMA-OFC",
+    "start": "pm2 start index.js --deep-monitoring --attach --name AKASH-MD",
     "stop": "pm2 stop NIMA-OFC",
-    "restart": "pm2 restart NIMA-OFC"
+    "restart": "pm2 restart AKASH-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
